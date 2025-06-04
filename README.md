@@ -2,6 +2,8 @@
 
 This guide shows you how to create a Cocos Creator mobile app that can remotely update its UI and logic after release, using the hot update system. The app starts as a simple shell (e.g., a label), and after a hot update, can show new content (like an image screen) from the server.
 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
 ---
 
 ## Step 1: Create the Minimal Shell App
