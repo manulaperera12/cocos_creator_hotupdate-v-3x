@@ -128,6 +128,7 @@ export class ImageScreenLogic extends Component {
 ## After Building the APK: Assets Folder Structure
 
 ![Assets after release first APK](https://drive.google.com/file/d/1wUiwKqt-YjF77gSBn_c2FQ37iv_6RqQP/view?usp=sharing)
+[Imgur](https://imgur.com/NaBclWP)
 
 ```
 assets/
