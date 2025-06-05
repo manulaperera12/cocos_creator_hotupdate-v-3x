@@ -70,7 +70,7 @@ export class RemoteEntryLoader extends Component {
 
 ## Before Building the APK: Assets Folder Structure
 
-![Assets before release APK](https://drive.google.com/file/d/1wUiwKqt-YjF77gSBn_c2FQ37iv_6RqQP/view?usp=sharing)
+![Assets before release APK](images/assets_before_release_apk.png)
 
 ```
 assets/
