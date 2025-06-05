@@ -121,14 +121,13 @@ export class ImageScreenLogic extends Component {
     - Select the `config` folder in the Assets panel.
     - In the Inspector, check **Is Bundle**, set **Bundle Name** to `config` (see screenshot below).
 
-![Inspector: Mark config as bundle](https://drive.google.com/file/d/1GlnD9kY5BjsBfghl8CF7Q2RTmqD_Sg03/view?usp=sharing)
+![Inspector: Mark config as bundle](images/assets_after_release_first_apk.png)
 
 ---
 
 ## After Building the APK: Assets Folder Structure
 
 ![Assets after release first APK](https://drive.google.com/file/d/1wUiwKqt-YjF77gSBn_c2FQ37iv_6RqQP/view?usp=sharing)
-![Imgur](https://imgur.com/NaBclWP)
 
 ```
 assets/
